@@ -1,4 +1,5 @@
 # ComfyUI-Depth2Mask
+Depth2Mask can turn depth into mask.
 ![depth2mask](https://github.com/DannyStone1999/ComfyUI-Depth2Mask/assets/171996586/2eeea91f-4092-4214-8aa9-2cb40aedd23b)
 ## WorkFlow
 ### Depth2Mask:
