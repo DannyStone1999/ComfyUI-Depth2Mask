@@ -1,6 +1,6 @@
 # ComfyUI-Depth2Mask
 Depth2Mask is a ComfyUI custome node that can turn depth into mask.
-![depth2mask](https://github.com/DannyStone1999/ComfyUI-Depth2Mask/assets/171996586/2eeea91f-4092-4214-8aa9-2cb40aedd23b)
+![0](https://github.com/DannyStone1999/ComfyUI-Depth2Mask/assets/171996586/864303ec-47be-4455-abd3-05f9392e0bf6)
 ## WorkFlows
 ### Depth2Mask:
 [depth2mask.json](https://github.com/user-attachments/files/15700286/depth2mask.json)
