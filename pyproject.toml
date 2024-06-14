@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-depth2mask"
+description = "Nodes:Depth2Mask"
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/DannyStone1999/ComfyUI-Depth2Mask"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-Depth2Mask"
+Icon = ""
